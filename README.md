@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shawnsey
 - 👀 I’m interested in ... expanding my development knowledgebase, working on fun projects, and trying to make tasks in my life easier
-- 🌱 I’m currently learning ... android development with kotlin, relational databases, and front end development
+- 🌱 I’m currently learning ... microservice development with go, relational databases, and front end development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... shawnmusho@gmail.com
 
